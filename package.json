@@ -19,8 +19,9 @@
     "vertical-timeline-component-for-react": "^1.0.6"
   },
   "scripts": {
+    "remove:build": "rimraf -f ./build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "npm run remove:build && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
