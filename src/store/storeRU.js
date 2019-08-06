@@ -485,7 +485,7 @@ const developers = [
   },
   {
     id: 'D3',
-    name: 'Катерина Жадько',
+    name: 'Eкатерина Жадько',
     github: 'https://github.com/cathzetjo',
     image: 'https://avatars3.githubusercontent.com/u/44948376?s=460&v=4',
     contribution: '\n' +

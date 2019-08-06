@@ -484,7 +484,7 @@ const developers = [
   },
   {
     id: 'D3',
-    name: 'Katerina Zhadko',
+    name: 'Ekaterina Zhadko',
     github: 'https://github.com/cathzetjo',
     image: 'https://avatars3.githubusercontent.com/u/44948376?s=460&v=4',
     contribution: '➤Component Developers page. Plus Layout and styles according Material UI for Developers page.\n' +
