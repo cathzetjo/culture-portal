@@ -1,6 +1,6 @@
 {
-  "name": "codejam-culture-portal",
-  "homepage": "https://ivankononovich.github.io/codejam-culture-portal/",
+  "name": "culture-portal",
+  "homepage": "https://cathzetjo.github.io/culture-portal/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
