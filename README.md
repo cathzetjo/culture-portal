@@ -1,3 +1,3 @@
 # Rolling Scopes school group task "Culture-Portal"
 
-2. [Link to the hosted Web App](http://cathzetjo.github.io/culture-portal)
+ [Link to the hosted Web App](https://ivankononovich.github.io/codejam-culture-portal/#/)
